@@ -1,0 +1,7 @@
+{
+  "name": "College Student Portal",
+  "description": "A full-stack College Student Portal application that allows students to register, log in, view/update their profile, and access course-related data. Admins can manage students, courses, and announcements.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
